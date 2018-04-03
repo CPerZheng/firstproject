@@ -1,0 +1,35 @@
+[
+  {
+    "model": "fengliao.articlereply",
+    "pk": 1,
+    "fields": {
+      "article": 1,
+      "user": 2,
+      "content": "故事会",
+      "create_time": "2017-08-19",
+      "update_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fengliao.articlereply",
+    "pk": 2,
+    "fields": {
+      "article": 1,
+      "user": 3,
+      "content": "好棒好棒",
+      "create_time": "2017-08-19",
+      "update_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fengliao.articlereply",
+    "pk": 3,
+    "fields": {
+      "article": 2,
+      "user": 2,
+      "content": "Hello World",
+      "create_time": "2017-08-21",
+      "update_time": "2017-08-19"
+    }
+  }
+]

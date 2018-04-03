@@ -1,0 +1,12 @@
+[
+  {
+    "model": "fengliao.articleoperate",
+    "pk": 2,
+    "fields": {
+      "operate_user": 2,
+      "operate_article": 1,
+      "create_time": "2017-08-19",
+      "update_time": "2017-08-19"
+    }
+  }
+]

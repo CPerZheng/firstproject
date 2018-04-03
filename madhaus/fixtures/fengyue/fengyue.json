@@ -1,0 +1,94 @@
+[
+  {
+    "model": "fengyue.fengyue",
+    "pk": 1,
+    "fields": {
+      "create_user": 2,
+      "obj_type":0,
+      "pay_type":0,
+      "content_type":1,
+      "del_status":0,
+      "address":"朝阳广场",
+      "browse_count":10,
+      "status":1,
+      "start_time":"2017-08-19",
+      "end_time": "2017-08-19",
+      "talk":"晚上朝阳广场见",
+      "evaluate":3
+    }
+  },
+   {
+    "model": "fengyue.fengyue",
+    "pk": 2,
+    "fields": {
+      "create_user": 2,
+      "obj_type":0,
+      "pay_type":0,
+      "content_type":1,
+      "del_status":0,
+      "address":"航洋国际中心",
+      "browse_count":10,
+      "status":2,
+      "start_time":"2017-08-19",
+      "end_time": "2017-08-19",
+      "talk":"去航洋逛逛",
+      "evaluate":3
+    }
+  },
+   {
+    "model": "fengyue.fengyue",
+    "pk": 3,
+    "fields": {
+      "create_user": 2,
+      "obj_type":0,
+      "pay_type":0,
+      "content_type":1,
+      "del_status":0,
+      "address":"万象广场",
+      "browse_count":10,
+      "status":3,
+      "start_time":"2017-08-19",
+      "end_time": "2017-08-19",
+      "talk":"去万象城买东西",
+      "evaluate":3
+    }
+  },
+
+   {
+    "model": "fengyue.fengyue",
+    "pk": 4,
+    "fields": {
+      "create_user": 2,
+      "obj_type":0,
+      "pay_type":0,
+      "content_type":1,
+      "del_status":0,
+      "address":"青秀山",
+      "browse_count":10,
+      "status":4,
+      "start_time":"2017-08-19",
+      "end_time": "2017-08-19",
+      "talk":"去爬山",
+      "evaluate":3
+    }
+  },
+   {
+    "model": "fengyue.fengyue",
+    "pk": 5,
+    "fields": {
+      "create_user": 2,
+      "obj_type":0,
+      "pay_type":0,
+      "content_type":1,
+      "del_status":0,
+      "address":"邕江边上",
+      "browse_count":10,
+      "status":4,
+      "start_time":"2017-08-19",
+      "end_time": "2017-08-19",
+      "talk":"去钓鱼",
+      "evaluate":3
+    }
+  }
+
+]

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0"
+    xmlns="http://java.sun.com/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>com.oddjob.action.LoginServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>JsonTestServlet</servlet-name>
+    <servlet-class>com.oddjob.action.JsonTestServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>WorkTypeServlet</servlet-name>
+    <servlet-class>com.oddjob.action.WorkTypeServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LoginJsonServlet</servlet-name>
+    <servlet-class>com.oddjob.mobile.LoginJsonServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>WorkTypeToEditServlet</servlet-name>
+    <servlet-class>com.oddjob.action.WorkTypeToEditServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>WorkTypeDoEdit</servlet-name>
+    <servlet-class>com.oddjob.action.WorkTypeDoEdit</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>WorkTypeAddServlet</servlet-name>
+    <servlet-class>com.oddjob.action.WorkTypeAddServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>WorkTypeDelServlet</servlet-name>
+    <servlet-class>com.oddjob.action.WorkTypeDelServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>WorkServlet</servlet-name>
+    <servlet-class>com.oddjob.action.WorkServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>WorkDoAddServlet</servlet-name>
+    <servlet-class>com.oddjob.action.WorkDoAddServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>WorkToAddServlet</servlet-name>
+    <servlet-class>com.oddjob.action.WorkToAddServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>WorkToEditServlet</servlet-name>
+    <servlet-class>com.oddjob.action.WorkToEditServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>WorkDoEditServlet</servlet-name>
+    <servlet-class>com.oddjob.action.WorkDoEditServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>WorkDoDelServlet</servlet-name>
+    <servlet-class>com.oddjob.action.WorkDoDelServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AddUserServlet</servlet-name>
+    <servlet-class>com.oddjob.mobile.AddUserServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AllWorkTypeServlet</servlet-name>
+    <servlet-class>com.oddjob.mobile.AllWorkTypeServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AllWorkServlet</servlet-name>
+    <servlet-class>com.oddjob.mobile.AllWorkServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AllOrderServlet</servlet-name>
+    <servlet-class>com.oddjob.mobile.AllOrderServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UserMsgDoEditServlet</servlet-name>
+    <servlet-class>com.oddjob.mobile.UserMsgDoEditServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SearchMySelfServlet</servlet-name>
+    <servlet-class>com.oddjob.mobile.SearchMySelfServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>WorkAddMobileServlet</servlet-name>
+    <servlet-class>com.oddjob.mobile.WorkAddMobileServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>WorkDetailServlet</servlet-name>
+    <servlet-class>com.oddjob.mobile.WorkDetailServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AllUsersServlet</servlet-name>
+    <servlet-class>com.oddjob.mobile.AllUsersServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SelOrderServlet</servlet-name>
+    <servlet-class>com.oddjob.mobile.SelOrderServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SelWorkServlet</servlet-name>
+    <servlet-class>com.oddjob.mobile.SelWorkServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UserMagServlet</servlet-name>
+    <servlet-class>com.oddjob.mobile.UserMagServlet</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/login</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>JsonTestServlet</servlet-name>
+    <url-pattern>/jsontest</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>WorkTypeServlet</servlet-name>
+    <url-pattern>/worktype_list</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LoginJsonServlet</servlet-name>
+    <url-pattern>/loginjson</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>WorkTypeToEditServlet</servlet-name>
+    <url-pattern>/worktypetoedit</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>WorkTypeDoEdit</servlet-name>
+    <url-pattern>/worktypedoedit</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>WorkTypeAddServlet</servlet-name>
+    <url-pattern>/worktypeadd</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>WorkTypeDelServlet</servlet-name>
+    <url-pattern>/worktypedel</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>WorkServlet</servlet-name>
+    <url-pattern>/work_list</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>WorkDoAddServlet</servlet-name>
+    <url-pattern>/workdoadd</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>WorkToAddServlet</servlet-name>
+    <url-pattern>/worktoadd</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>WorkToEditServlet</servlet-name>
+    <url-pattern>/worktoedit</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>WorkDoEditServlet</servlet-name>
+    <url-pattern>/workdoedit</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>WorkDoDelServlet</servlet-name>
+    <url-pattern>/workdodel</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AddUserServlet</servlet-name>
+    <url-pattern>/adduser</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AllWorkTypeServlet</servlet-name>
+    <url-pattern>/allworktype</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AllWorkServlet</servlet-name>
+    <url-pattern>/allwork</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AllOrderServlet</servlet-name>
+    <url-pattern>/allorder</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UserMsgDoEditServlet</servlet-name>
+    <url-pattern>/usermsg</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SearchMySelfServlet</servlet-name>
+    <url-pattern>/searchmyself</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>WorkAddMobileServlet</servlet-name>
+    <url-pattern>/workaddmoblie</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>WorkDetailServlet</servlet-name>
+    <url-pattern>/workdetail</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AllUsersServlet</servlet-name>
+    <url-pattern>/allusers</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SelOrderServlet</servlet-name>
+    <url-pattern>/selorder</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SelWorkServlet</servlet-name>
+    <url-pattern>/selwork</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UserMagServlet</servlet-name>
+    <url-pattern>/usertomsg</url-pattern>
+  </servlet-mapping>
+
+</web-app>

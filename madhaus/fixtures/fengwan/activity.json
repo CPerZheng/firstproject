@@ -1,0 +1,87 @@
+[
+
+  {
+    "model": "fengwan.activity",
+    "pk": 1,
+    "fields": {
+      "name": "今晚火锅",
+      "a_type":1,
+      "create_user":1,
+      "start_time":  "2017-08-19",
+      "end_time":  "2017-08-19",
+      "location": "朝阳广场",
+      "people_quota_limit": 5,
+      "has_fee": 1 ,
+      "fee": 50,
+      "fee_link": "www.hao123.com",
+      "contact_way": "0771-12345678",
+      "description": "今晚去朝阳吃火锅",
+      "company_name":"南宁市政府",
+      "store": 1,
+      "pay_way": 1,
+      "applicant_number": 30,
+      "level": 1,
+      "is_delete": 0,
+      "pic": "http://img3.3lian.com/2013/c4/99/d/19.jpg",
+      "status": 0 ,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fengwan.activity",
+    "pk": 2,
+    "fields": {
+      "name": "今晚看电影",
+      "a_type":1,
+      "create_user":1,
+      "start_time":  "2017-08-19",
+      "end_time":  "2017-08-19",
+      "location": "朝阳广场",
+      "people_quota_limit": 5,
+      "has_fee": 1 ,
+      "fee": 50,
+      "fee_link": "www.hao123.com",
+      "contact_way": "0771-12345678",
+      "description": "今晚去朝阳看电影",
+      "company_name":"电影爱好者",
+      "store": 1,
+      "pay_way": 1,
+      "applicant_number": 30,
+      "level": 1,
+      "is_delete": 0,
+      "pic": "http://pic19.huitu.com/res/20140629/50054_20140629171320949200_1.jpg",
+      "status": 0 ,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fengwan.activity",
+    "pk": 3,
+    "fields": {
+      "name": "今晚烧烤",
+      "a_type":1,
+      "create_user":1,
+      "start_time":  "2017-08-19",
+      "end_time":  "2017-08-19",
+      "location": "朝阳广场",
+      "people_quota_limit": 5,
+      "has_fee": 1 ,
+      "fee": 50,
+      "fee_link": "www.hao123.com",
+      "contact_way": "0771-12345678",
+      "description": "今晚去朝阳烧烤",
+      "company_name":"吃货们",
+      "store": 1,
+      "pay_way": 1,
+      "applicant_number": 30,
+      "level": 1,
+      "is_delete": 0,
+      "pic": "http://img1.3lian.com/2015/a1/106/d/221.jpg",
+      "status": 0 ,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  }
+]

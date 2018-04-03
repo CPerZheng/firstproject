@@ -1,0 +1,50 @@
+[
+  {"model": "users.usersshoppingaddress",
+    "pk": 1,
+    "fields": {
+      "receive_name": "yyy",
+      "address": "asdfhyjyuk",
+      "phone": "13900000011",
+      "area": "南宁",
+      "default_address": 0,
+      "create_time": "2017-08-19",
+      "update_time": "2017-08-19"
+    }
+  },
+  {"model": "users.usersshoppingaddress",
+    "pk": 2,
+    "fields": {
+      "receive_name": "ggg",
+      "address": "asdfhyjyuk",
+      "phone": "13900000111",
+      "area": "广州",
+      "default_address": 0,
+      "create_time": "2017-08-19",
+      "update_time": "2017-08-19"
+    }
+  },
+  {"model": "users.usersshoppingaddress",
+    "pk": 3,
+    "fields": {
+      "receive_name": "zzz",
+      "address": "asdfhyjyuk",
+      "phone": "13900001111",
+      "area": "深圳",
+      "default_address": 0,
+      "create_time": "2017-08-19",
+      "update_time": "2017-08-19"
+    }
+  },
+  {"model": "users.usersshoppingaddress",
+    "pk": 4,
+    "fields": {
+      "receive_name": "sss",
+      "address": "asdfhyjyuk",
+      "phone": "13900111111",
+      "area": "四川",
+      "default_address": 0,
+      "create_time": "2017-08-19",
+      "update_time": "2017-08-19"
+    }
+  }
+]

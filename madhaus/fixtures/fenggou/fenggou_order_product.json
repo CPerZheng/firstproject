@@ -1,0 +1,62 @@
+[
+  {
+    "model": "orders.orderproduct",
+    "pk": 1,
+    "fields": {
+      "order": 1,
+      "pro_spec": 1,
+      "pro_num": 4,
+      "ps_price": 122,
+      "pro_price": 1220,
+      "ord_status": 1,
+      "pay_status":0,
+      "should_pay": 1500,
+      "actual_pay": 1500,
+      "pro_fare":0,
+      "pro_log":"中通",
+      "pro_log_id":1234567,
+      "create_time": "2017-08-19",
+      "update_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "orders.orderproduct",
+    "pk": 2,
+    "fields": {
+      "order": 2,
+      "pro_spec": 1,
+      "pro_num": 4,
+      "ps_price": 555,
+      "pro_price": 555,
+      "ord_status": 1,
+      "pay_status":1,
+      "should_pay": 555,
+      "actual_pay": 555,
+      "pro_fare":0,
+      "pro_log":"圆通",
+      "pro_log_id":76543345,
+      "create_time": "2017-08-19",
+      "update_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "orders.orderproduct",
+    "pk": 3,
+    "fields": {
+      "order": 3,
+      "pro_spec": 1,
+      "pro_num": 1,
+      "ps_price": 60,
+      "pro_price": 60,
+      "ord_status": 0,
+      "pay_status":1,
+      "should_pay": 60,
+      "actual_pay": 60,
+      "pro_fare":0,
+      "pro_log":"申通",
+      "pro_log_id":64354158,
+      "create_time": "2017-08-19",
+      "update_time": "2017-08-19"
+    }
+  }
+]

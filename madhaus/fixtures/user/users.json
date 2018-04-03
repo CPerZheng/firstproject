@@ -1,0 +1,13 @@
+[
+  {"model": "auth.user",
+    "pk": 1,
+    "fields": {
+      "username": "13900000001",
+      "password": "pbkdf2_sha256$36000$MXGZ12gpyTJa$uQRe1trXShrjuSzxmACco6mVOOQWcdRv7BVqOIL6kfI=",
+      "email": "1@qq.com",
+      "is_staff": true,
+      "is_active": true,
+      "is_superuser": true
+    }
+  }
+]

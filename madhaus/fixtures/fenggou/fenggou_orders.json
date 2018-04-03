@@ -1,0 +1,59 @@
+[
+  {
+    "model": "orders.order",
+    "pk": 1,
+    "fields": {
+      "order_id": 1,
+      "pro_price": 122,
+      "fare_price": 12,
+      "all_price": 150,
+      "should_pay": 150,
+      "actual_pay": 150,
+      "pay_way": 0,
+      "pay_status": 0,
+      "log_status": 0,
+      "order_status":1,
+      "log_id":9876543345,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 2,
+    "fields": {
+      "order_id": 2,
+      "pro_price": 77,
+      "fare_price": 0,
+      "all_price": 77,
+      "should_pay": 77,
+      "actual_pay": 77,
+      "pay_way": 0,
+      "pay_status": 1,
+      "log_status": 0,
+      "order_status": 1,
+      "log_id": 3467765336,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "orders.order",
+    "pk": 3,
+    "fields": {
+      "order_id": 3,
+      "pro_price": 1690,
+      "fare_price": 0,
+      "all_price": 1690,
+      "should_pay": 1690,
+      "actual_pay": 1690,
+      "pay_way": 2,
+      "pay_status": 1,
+      "log_status": 1,
+      "order_status": 3,
+      "log_id": 76544887652,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  }
+]

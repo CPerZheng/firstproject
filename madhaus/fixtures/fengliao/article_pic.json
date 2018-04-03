@@ -1,0 +1,22 @@
+[
+  {
+    "model": "fengliao.articlepic",
+    "pk": 1,
+    "fields": {
+      "article": 1,
+      "pic": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3659971533,261678577&fm=117&gp=0.jpg",
+      "create_time": "2017-08-19",
+      "update_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fengliao.articlepic",
+    "pk": 2,
+    "fields": {
+      "article": 1,
+      "pic": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3281768044,2052582677&fm=117&gp=0.jpg",
+      "create_time": "2017-08-19",
+      "update_time": "2017-08-19"
+    }
+  }
+]

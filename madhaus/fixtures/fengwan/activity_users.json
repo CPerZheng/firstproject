@@ -1,0 +1,109 @@
+[
+
+  {
+    "model": "fengwan.activityusers",
+    "pk": 1,
+    "fields": {
+      "activity":2,
+      "name": "张三",
+      "phone":"15612312312",
+      "number":20,
+      "order_id":1,
+      "user":2,
+      "prepay_id":0,
+      "fee":2,
+      "should_fee":111,
+      "actual_fee":2222,
+      "pay_status":1,
+      "my_status":0,
+      "pay_way":2,
+      "status": 1,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fengwan.activityusers",
+    "pk": 2,
+    "fields": {
+      "activity":3,
+      "name": "李四",
+      "phone":"15612312312",
+      "number":20,
+      "user":2,
+      "fee":2,
+      "should_fee":111,
+      "actual_fee":2222,
+      "pay_status":0,
+      "pay_way":1,
+      "prepay_id":0,
+      "my_status":1,
+      "status": 0,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fengwan.activityusers",
+    "pk": 3,
+    "fields": {
+      "activity":1,
+      "name": "王五",
+      "phone":"15612312312",
+      "number":20,
+      "user":1,
+      "fee":2,
+      "should_fee":111,
+      "actual_fee":2222,
+      "pay_status":0,
+      "prepay_id":0,
+      "pay_way":1,
+      "my_status":2,
+      "status": 1,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+   {
+    "model": "fengwan.activityusers",
+    "pk": 3,
+    "fields": {
+      "activity":1,
+      "name": "王五",
+      "phone":"15612312312",
+      "number":20,
+      "user":1,
+      "fee":2,
+      "should_fee":111,
+      "actual_fee":2222,
+      "pay_status":0,
+      "prepay_id":0,
+      "pay_way":1,
+      "my_status":3,
+      "status": 1,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+   {
+    "model": "fengwan.activityusers",
+    "pk": 3,
+    "fields": {
+      "activity":1,
+      "name": "王五",
+      "phone":"15612312312",
+      "number":20,
+      "user":1,
+      "fee":2,
+      "should_fee":111,
+      "actual_fee":2222,
+      "pay_status":0,
+      "prepay_id":0,
+      "pay_way":1,
+      "my_status":4,
+      "status": 1,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  }
+]

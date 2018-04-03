@@ -1,0 +1,26 @@
+[
+  {
+    "model": "fengliao.articlebrowse",
+    "pk": 1,
+    "fields": {
+      "user": 2,
+      "article": 1,
+      "praise": 0,
+      "collection": 1,
+      "create_time": "2017-08-19",
+      "update_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fengliao.articlebrowse",
+    "pk": 2,
+    "fields": {
+      "user": 2,
+      "article": 2,
+      "collection": 0,
+      "praise": 1,
+      "create_time": "2017-08-19",
+      "update_time": "2017-08-19"
+    }
+  }
+]

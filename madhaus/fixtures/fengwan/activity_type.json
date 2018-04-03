@@ -1,0 +1,63 @@
+[
+
+  {
+    "model": "fengwan.activitytype",
+    "pk": 1,
+    "fields": {
+      "name": "荷花",
+      "create_user":1,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fengwan.activitytype",
+    "pk": 2,
+    "fields": {
+      "name": "游泳",
+      "create_user":1,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fengwan.activitytype",
+    "pk": 3,
+    "fields": {
+      "name": "爬山",
+      "create_user":1,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fengwan.activitytype",
+    "pk": 4,
+    "fields": {
+      "name": "看电影",
+      "create_user":1,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+   {
+    "model": "fengwan.activitytype",
+    "pk": 5,
+    "fields": {
+      "name": "逛街",
+      "create_user":1,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+   {
+    "model": "fengwan.activitytype",
+    "pk": 6,
+    "fields": {
+      "name": "钓鱼",
+      "create_user":1,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "model": "fenggou.productspec",
+    "pk": 1,
+    "fields": {
+      "product": 1,
+      "standard": "大",
+      "fee": 1200,
+      "inventory": 700,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fenggou.productspec",
+    "pk": 2,
+    "fields": {
+      "product": 2,
+      "standard": "大",
+      "fee": 2200,
+      "inventory": 700,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fenggou.productspec",
+    "pk": 3,
+    "fields": {
+      "product": 3,
+      "standard": "大",
+      "fee": 7800,
+      "inventory": 700,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fenggou.productspec",
+    "pk": 4,
+    "fields": {
+      "product": 4,
+      "standard": "大",
+      "fee": 1200,
+      "inventory": 700,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fenggou.productspec",
+    "pk": 5,
+    "fields": {
+      "product": 5,
+      "standard": "大",
+      "fee": 4200,
+      "inventory": 700,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fenggou.productspec",
+    "pk": 6,
+    "fields": {
+      "product": 6,
+      "standard": "大",
+      "fee": 3400,
+      "inventory": 700,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fenggou.productspec",
+    "pk": 7,
+    "fields": {
+      "product": 7,
+      "standard": "大",
+      "fee": 9200,
+      "inventory": 400,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fenggou.productspec",
+    "pk": 8,
+    "fields": {
+      "product": 8,
+      "standard": "大",
+      "fee": 9600,
+      "inventory": 34,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  }
+]

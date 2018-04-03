@@ -1,0 +1,58 @@
+[
+  {
+    "model": "fengyue.fengyuejoin",
+    "pk": 1,
+    "fields": {
+      "fengyue": 1,
+      "join_user":1,
+      "reply": "真刺激!!!!",
+      "status":1,
+      "select":0,
+      "is_status":0,
+      "create_time": "2017-08-19",
+      "update_time":"2017-08-19"
+    }
+  },
+   {
+    "model": "fengyue.fengyuejoin",
+    "pk": 2,
+    "fields": {
+      "fengyue":1 ,
+      "join_user":2,
+      "reply": "真好玩!!!!",
+      "status":1,
+      "select":0,
+      "is_status":0,
+      "create_time": "2017-08-19",
+      "update_time":"2017-08-19"
+    }
+  },
+   {
+    "model": "fengyue.fengyuejoin",
+    "pk": 3,
+    "fields": {
+      "fengyue": 2,
+      "join_user":3,
+      "reply": "真有趣!!!!",
+      "select":1,
+      "status":0,
+      "is_status":0,
+      "create_time": "2017-08-19",
+      "update_time":"2017-08-19"
+    }
+  },
+  {
+    "model": "fengyue.fengyuejoin",
+    "pk": 4,
+    "fields": {
+      "fengyue": 3,
+      "join_user": 4,
+      "reply": "又黄有暴力!!!!",
+      "status":1,
+      "select":1,
+      "is_status":0,
+      "create_time": "2017-08-19",
+      "update_time": "2017-08-19"
+    }
+  }
+]

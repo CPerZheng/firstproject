@@ -1,0 +1,138 @@
+[
+  {
+    "model": "fenggou.product",
+    "pk": 1,
+    "fields": {
+      "name": "电脑",
+      "fee": 1200,
+      "logic_fee": 12,
+      "type": 1,
+      "pic": "https://img14.360buyimg.com/da/jfs/t7072/51/1528874971/232698/bf08e4c6/598c073bN45b0c33d.jpg!q90.jpg",
+      "buy_user": 234,
+      "level": 1,
+      "content": "盏昏暗油灯跳着粒豆火焰父亲坐角落抽旱烟言发",
+      "inventory": 700,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fenggou.product",
+    "pk": 2,
+    "fields": {
+      "name": "手机",
+      "fee": 2200,
+      "logic_fee": 0,
+      "type": 2,
+      "pic": "https://img10.360buyimg.com/da/jfs/t5365/243/2068642959/160473/3cc46fbe/5998456aNe6f99a0d.jpg",
+      "buy_user": 56,
+      "level": 1,
+      "content": "我用眷恋目光注视着通往我家径忽路跑渐渐近我认我父亲",
+      "inventory": 400,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fenggou.product",
+    "pk": 3,
+    "fields": {
+      "name": "桌子",
+      "fee": 7800,
+      "logic_fee": 12,
+      "type": 4,
+      "pic": "https://img10.360buyimg.com/da/jfs/t5365/243/2068642959/160473/3cc46fbe/5998456aNe6f99a0d.jpg",
+      "buy_user": 66,
+      "level": 1,
+      "content": "父亲与我距离渐渐变近高扬着手臂五角纸钞风颤抖",
+      "inventory": 300,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fenggou.product",
+    "pk": 4,
+    "fields": {
+      "name": "水杯",
+      "fee": 1200,
+      "logic_fee": 12,
+      "pic": "https://img11.360buyimg.com/da/jfs/t7189/364/1525711915/182858/7a9bd6bc/598c07d0N935dbfe3.jpg!q90.jpg",
+      "buy_user": 987,
+      "level": 1,
+      "content": "青春故事 青春,多麽闪亮的字眼啊!一想到自己也拥有这麽珍贵的东西,我就感到无比地兴奋和光荣.",
+      "type": 3,
+      "inventory": 400,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fenggou.product",
+    "pk": 5,
+    "fields": {
+      "name": "联想",
+      "fee": 4200,
+      "logic_fee": 10,
+      "type": 1,
+      "pic": "https://img14.360buyimg.com/da/jfs/t7072/51/1528874971/232698/bf08e4c6/598c073bN45b0c33d.jpg!q90.jpg",
+      "buy_user": 1234,
+      "level": 1,
+      "content": "123456773盏昏暗油灯跳着粒豆火焰父亲坐角落抽旱烟言发",
+      "inventory": 700,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fenggou.product",
+    "pk": 6,
+    "fields": {
+      "name": "华硕",
+      "fee": 3400,
+      "logic_fee": 20,
+      "type": 1,
+      "pic": "https://img14.360buyimg.com/da/jfs/t7072/51/1528874971/232698/bf08e4c6/598c073bN45b0c33d.jpg!q90.jpg",
+      "buy_user": 563,
+      "level": 1,
+      "content": "盏昏暗油灯跳着粒豆火焰父亲坐角落抽旱烟言发",
+      "inventory": 700,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fenggou.product",
+    "pk": 7,
+    "fields": {
+      "name": "华为",
+      "fee": 9200,
+      "logic_fee": 32,
+      "type": 2,
+      "pic": "https://img14.360buyimg.com/da/jfs/t7072/51/1528874971/232698/bf08e4c6/598c073bN45b0c33d.jpg!q90.jpg",
+      "buy_user": 540,
+      "level": 1,
+      "content": "1我用眷恋目光注视着通往我家径忽路跑渐渐近我认我父亲",
+      "inventory": 400,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fenggou.product",
+    "pk": 8,
+    "fields": {
+      "name": "iPhone",
+      "fee": 9600,
+      "logic_fee": 0,
+      "type": 2,
+      "pic": "https://img11.360buyimg.com/da/jfs/t6808/349/2545613200/151406/ef877719/598d1641Ned7720d6.jpg",
+      "buy_user": 56,
+      "level": 1,
+      "content": "2我用眷恋目光注视着通往我家径忽路跑渐渐近我认我父亲",
+      "inventory": 34,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  }
+]

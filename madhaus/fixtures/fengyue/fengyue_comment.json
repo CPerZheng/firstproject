@@ -1,0 +1,38 @@
+[
+  {
+    "model": "fengyue.fengyuecomment",
+    "pk": 1,
+    "fields": {
+      "fengyue": 1,
+      "evaluate":1,
+      "content": "真爽!!!!",
+      "com_user":1,
+      "create_time": "2017-08-19",
+      "update_time":"2017-08-19"
+    }
+  },
+   {
+    "model": "fengyue.fengyuecomment",
+    "pk": 2,
+    "fields": {
+      "fengyue": 2,
+      "evaluate":1,
+      "com_user":2,
+      "content": "真刺激!!!!",
+      "create_time": "2017-08-19",
+      "update_time":"2017-08-19"
+    }
+  },
+   {
+    "model": "fengyue.fengyuecomment",
+    "pk": 3,
+    "fields": {
+      "fengyue": 3,
+      "evaluate":1,
+      "com_user":3,
+      "content": "真溜!!!!",
+      "create_time": "2017-08-19",
+      "update_time":"2017-08-19"
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "model": "fengyue.fengyuecontenttype",
+    "pk": 1,
+    "fields": {
+      "type": "约电影",
+      "content":"今晚去万达广场看电影",
+      "create_user": 1,
+      "create_time": "2017-08-19",
+      "update_time":"2017-08-19"
+    }
+  },
+   {
+    "model": "fengyue.fengyuecontenttype",
+    "pk": 2,
+    "fields": {
+      "type": "约玩",
+      "content":"明天去青秀山爬山",
+      "create_user": 1,
+      "create_time": "2017-08-19",
+      "update_time":"2017-08-19"
+    }
+  },
+   {
+    "model": "fengyue.fengyuecontenttype",
+    "pk": 3,
+    "fields": {
+      "type": "约饭",
+      "content":"今晚去朝阳广场吃饭",
+      "create_user": 1,
+      "create_time": "2017-08-19",
+      "update_time":"2017-08-19"
+    }
+  }
+]

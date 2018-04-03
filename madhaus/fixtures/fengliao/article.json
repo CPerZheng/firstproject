@@ -1,0 +1,87 @@
+[
+  {
+    "model": "fengliao.article",
+    "pk": 1,
+    "fields": {
+      "create_user": 1,
+      "title": "KFC",
+      "content": "hello KFC",
+      "is_praise":1,
+      "is_delete":0,
+      "reply_time": "2017-08-19",
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fengliao.article",
+    "pk": 2,
+    "fields": {
+      "create_user": 1,
+      "title": "梭哈",
+      "content": "麻将馆不见不散",
+      "reply_time": "2017-08-20",
+      "status": 0,
+      "is_delete":0,
+      "is_praise":0,
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-23"
+    }
+  },
+  {
+    "model": "fengliao.article",
+    "pk": 3,
+    "fields": {
+      "create_user": 1,
+      "title": "炸金花",
+      "content": "今晚开桌",
+      "status": 1,
+      "is_delete":0,
+      "reply_time": "2017-08-21",
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+  {
+    "model": "fengliao.article",
+    "pk": 4,
+    "fields": {
+      "create_user": 1,
+      "title": "Python",
+      "content": "so good",
+      "status": 2,
+      "is_delete":1,
+      "reply_time": "2017-08-22",
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+   {
+    "model": "fengliao.article",
+    "pk": 5,
+    "fields": {
+      "create_user": 1,
+      "title": "Android",
+      "content": "so good",
+      "status": 3,
+      "is_delete":1,
+      "reply_time": "2017-08-22",
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+   {
+    "model": "fengliao.article",
+    "pk": 6,
+    "fields": {
+      "create_user": 1,
+      "title": "JAVA",
+      "content": "so good",
+      "status": 3,
+      "is_delete":1,
+      "reply_time": "2017-08-22",
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  }
+]

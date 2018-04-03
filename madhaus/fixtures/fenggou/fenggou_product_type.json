@@ -1,0 +1,42 @@
+[
+  {
+    "model": "fenggou.producttype",
+    "pk": 1,
+    "fields": {
+      "name": "演出",
+      "parent_type_id":1,
+      "create_time": "2017-08-20",
+      "update_time": "2017-08-20"
+    }
+  },
+  {
+    "model": "fenggou.producttype",
+    "pk": 2,
+    "fields": {
+      "name": "衍生品",
+      "parent_type_id":2,
+      "create_time": "2017-08-20",
+      "update_time": "2017-08-20"
+    }
+  },
+  {
+    "model": "fenggou.producttype",
+    "pk": 3,
+    "fields": {
+      "name": "其他",
+      "parent_type_id":3,
+      "create_time": "2017-08-20",
+      "update_time": "2017-08-20"
+    }
+  },
+  {
+    "model": "fenggou.producttype",
+    "pk": 4,
+    "fields": {
+      "name": "合作商品",
+      "parent_type_id":4,
+      "create_time": "2017-08-20",
+      "update_time": "2017-08-20"
+    }
+  }
+]

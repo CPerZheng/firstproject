@@ -1,0 +1,33 @@
+[
+
+  {
+    "model": "fengwan.activityapplyuser",
+    "pk": 1,
+    "fields": {
+      "activity": 1,
+      "user":1,
+      "name":"趙四",
+      "create_time": "2017-08-19"
+    }
+  },
+   {
+    "model": "fengwan.activityapplyuser",
+    "pk": 2,
+    "fields": {
+     "activity": 1,
+      "user":2,
+      "name":"子龙",
+      "create_time": "2017-08-19"
+    }
+  },
+   {
+    "model": "fengwan.activityapplyuser",
+    "pk": 3,
+    "fields": {
+      "activity": 1,
+      "user":3,
+      "name":"趙构",
+      "create_time": "2017-08-19"
+    }
+  }
+]

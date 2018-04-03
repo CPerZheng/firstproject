@@ -1,0 +1,92 @@
+[
+  {
+    "model": "fenggou.productpic",
+    "pk": 1,
+    "fields": {
+      "product": 1,
+      "pic": "https://img14.360buyimg.com/da/jfs/t7072/51/1528874971/232698/bf08e4c6/598c073bN45b0c33d.jpg!q90.jpg",
+      "update_time": "2017-08-19 00:00:00",
+      "create_time": "2017-08-19 00:00:00"
+    }
+  },
+  {
+    "model": "fenggou.productpic",
+    "pk": 2,
+    "fields": {
+      "product": 2,
+      "pic": "https://img11.360buyimg.com/da/jfs/t6808/349/2545613200/151406/ef877719/598d1641Ned7720d6.jpg",
+      "update_time": "2017-08-19 00:00:00",
+      "create_time": "2017-08-19 00:00:00"
+    }
+  },
+  {
+    "model": "fenggou.productpic",
+    "pk": 3,
+    "fields": {
+      "product": 3,
+      "pic": "https://img10.360buyimg.com/da/jfs/t5365/243/2068642959/160473/3cc46fbe/5998456aNe6f99a0d.jpg",
+      "update_time": "2017-08-19 00:00:00",
+      "create_time": "2017-08-19 00:00:00"
+    }
+  },
+  {
+    "model": "fenggou.productpic",
+    "pk": 4,
+    "fields": {
+      "product": 4,
+      "pic": "https://img11.360buyimg.com/da/jfs/t7189/364/1525711915/182858/7a9bd6bc/598c07d0N935dbfe3.jpg!q90.jpg",
+      "update_time": "2017-08-19 00:00:00",
+      "create_time": "2017-08-19 00:00:00"
+    }
+  },
+  {
+    "model": "fenggou.productpic",
+    "pk": 5,
+    "fields": {
+      "product": 1,
+      "pic": "https://img14.360buyimg.com/da/jfs/t7072/51/1528874971/232698/bf08e4c6/598c073bN45b0c33d.jpg!q90.jpg",
+      "update_time": "2017-08-19 00:00:00",
+      "create_time": "2017-08-19 00:00:00"
+    }
+  },
+  {
+    "model": "fenggou.productpic",
+    "pk": 6,
+    "fields": {
+      "product": 2,
+      "pic": "https://img14.360buyimg.com/da/jfs/t7072/51/1528874971/232698/bf08e4c6/598c073bN45b0c33d.jpg!q90.jpg",
+      "update_time": "2017-08-19 00:00:00",
+      "create_time": "2017-08-19 00:00:00"
+    }
+  },
+  {
+    "model": "fenggou.productpic",
+    "pk": 7,
+    "fields": {
+      "product": 3,
+      "pic": "https://img14.360buyimg.com/da/jfs/t7072/51/1528874971/232698/bf08e4c6/598c073bN45b0c33d.jpg!q90.jpg",
+      "update_time": "2017-08-19 00:00:00",
+      "create_time": "2017-08-19 00:00:00"
+    }
+  },
+  {
+    "model": "fenggou.productpic",
+    "pk": 8,
+    "fields": {
+      "product": 4,
+      "pic": "https://img11.360buyimg.com/da/jfs/t6808/349/2545613200/151406/ef877719/598d1641Ned7720d6.jpg",
+      "update_time": "2017-08-19 00:00:00",
+      "create_time": "2017-08-19 00:00:00"
+    }
+  },
+  {
+    "model": "fenggou.productpic",
+    "pk": 9,
+    "fields": {
+      "product": 1,
+      "pic": "https://img14.360buyimg.com/da/jfs/t7072/51/1528874971/232698/bf08e4c6/598c073bN45b0c33d.jpg!q90.jpg",
+      "update_time": "2017-08-19 00:00:00",
+      "create_time": "2017-08-19 00:00:00"
+    }
+  }
+]

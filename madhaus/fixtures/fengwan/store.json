@@ -1,0 +1,30 @@
+[
+
+  {
+    "model": "fengwan.store",
+    "pk": 1,
+    "fields": {
+      "name": "北京烤鸭",
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+   {
+    "model": "fengwan.store",
+    "pk": 2,
+    "fields": {
+      "name": "桂林米粉",
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  },
+   {
+    "model": "fengwan.store",
+    "pk": 3,
+    "fields": {
+      "name": "柳州螺蛳粉",
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  }
+]

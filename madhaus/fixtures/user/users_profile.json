@@ -1,0 +1,14 @@
+[
+  {
+    "model": "users.usersprofile",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "phone": "13900000001",
+      "username": "admin",
+      "nickname": "admin",
+      "update_time": "2017-08-19",
+      "create_time": "2017-08-19"
+    }
+  }
+]
